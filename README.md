@@ -62,7 +62,10 @@ This will launch the app at: `http://localhost:3000`
 ## 🖼️ What to Expect
 
 - 📷 **Live UI Example**
-  ![Live demo of updating stock chart](demo.gif)
+
+<p align="center">
+  <img src="demo.gif" alt="Live UI Demo" width="800"/>
+</p>
 
 ---
 
