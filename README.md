@@ -39,15 +39,15 @@ source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate   # On Windows
 
 # Install dependencies and start server
-pip install -r requirements.txt
-python3 server3.py
+pip install -r datafeed/requirements.txt
+python3 datafeed/server3.py
 ```
 
 By default, the backend will run at: `http://localhost:8080`
 
 ---
 
-### 2. Start the React Frontend
+### 2. Start the React Frontend (in a new terminal window)
 
 ```bash
 # Make sure you're in the project root with package.json
@@ -61,19 +61,9 @@ This will launch the app at: `http://localhost:3000`
 
 ## 🖼️ What to Expect
 
-- 📷 **Live UI Example**
-
 <p align="center">
   <img src="demo.gif" alt="Live UI Demo" width="800"/>
 </p>
-
----
-
-## 📌 Notes
-
-- Task 2 builds directly on Task 1’s backend.
-- The original simulation was hosted on Forage but has since been archived.
-- This repo reflects my cleaned, updated, and working implementation with frontend integration.
 
 ---
 
