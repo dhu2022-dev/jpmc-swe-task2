@@ -30,6 +30,6 @@ npm start
 
 App runs at `http://localhost:3000`.
 
-## Screenshot
+## Demo
 
-![Perspective chart showing ask prices for ABC and DEF](demo.gif)
+![Screen recording of the Perspective chart showing ask prices for ABC and DEF](demo.gif)
